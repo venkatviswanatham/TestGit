@@ -6,5 +6,6 @@ package com.venkat.testgit;
 
 public class test {
     int anInt;
+    double s;
     float j;
 }
